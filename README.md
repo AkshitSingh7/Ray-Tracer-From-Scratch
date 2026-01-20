@@ -108,7 +108,7 @@ This project uses a **Monte Carlo Path Tracing** algorithm.
 ## 🔗 Credits & License
 
 * **Author:** Akshit Singh
-* **License:** MIT License (See `LICENSE` file for details).
+* **License:** MIT License.
 * **References:**
 * *Ray Tracing in One Weekend* by Peter Shirley.
 * Windowing provided by [Raylib](https://www.raylib.com/).
