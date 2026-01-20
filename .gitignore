@@ -1,0 +1,36 @@
+# Prerequisites
+*.d
+*.obj
+*.exe
+*.o
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# CMake Build Folders
+build/
+out/
+bin/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Editors
+.vscode/
+.idea/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# OS Generated
+.DS_Store
+Thumbs.db
+
+# Images (Ignore test renders, but keep the screenshots folder)
+*.png
+*.ppm
+!screenshots/*.png
