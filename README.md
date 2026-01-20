@@ -3,7 +3,7 @@
 A high-performance, multi-threaded Ray Tracer built from the ground up in C++.
 It implements **Path Tracing** logic to achieve photorealistic global illumination, soft shadows, and real-time progressive rendering using **OpenMP** and **Raylib**.
 
-<img src="screenshots/render_highres.png" width="600" alt="Demo Render">
+<img src="screenshots/render_highres.png" width="500" alt="Demo Render">
 > *Rendered output showing global illumination, soft shadows, and material reflections.*
 
 ## ✨ Features
