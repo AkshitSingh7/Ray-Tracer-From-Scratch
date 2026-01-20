@@ -118,7 +118,3 @@ This project uses a **Monte Carlo Path Tracing** algorithm.
 ---
 
 *Happy Rendering!*
-
-```
-
-```
