@@ -21,7 +21,7 @@ It implements **Path Tracing** logic to achieve photorealistic global illuminati
 ```text
 Ray-Tracer-From-Scratch/
 │
-├── CMakeLists.txt           # Build configuration (CMake)
+├── CMakeLists.txt           # Build configuration 
 ├── LICENSE                  # MIT License
 ├── README.md                # Project Documentation
 ├── .gitignore               # Git ignore rules
