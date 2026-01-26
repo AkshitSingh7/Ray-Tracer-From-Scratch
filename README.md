@@ -26,15 +26,14 @@ Ray-Tracer-From-Scratch/
 ├── README.md                # Project Documentation
 ├── .gitignore               # Git ignore rules
 │
-├── include/                 # Header files (Math & Physics engine)
+├── include/                 # Header files 
 │   ├── hittable.h           # Abstract base class for objects
-│   ├── hittable_list.h      # List of hittable objects (the world)
-│   ├── material.h           # Material definitions (Metal, Lambertian, Light)
+│   ├── hittable_list.h      # List of hittable objects 
+│   ├── material.h           # Material definitions 
 │   ├── ray.h                # Ray class implementation
 │   ├── rtweekend.h          # Constants and utility functions
 │   ├── sphere.h             # Sphere object implementation
-│   └── vec3.h               # Vector3 math library (dot, cross, unit_vector)
-│
+│   └── vec3.h               # Vector3 math library│
 ├── src/                     # Source files
 │   └── main.cpp             # Main entry point, render loop, and scene setup
 │
